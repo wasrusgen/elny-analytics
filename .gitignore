@@ -1,0 +1,5 @@
+# Big binary artifacts that don't belong in git
+*.parquet
+*.zip
+.DS_Store
+Thumbs.db
